@@ -1,0 +1,370 @@
+{
+  "heading": "Conversion of Sentences to Different Tenses",
+  "topics": [
+    {
+      "heading": "Miscellaneous Exercise on Tenses",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Convert the sentence 'I had been working on the project all day.' into a present perfect continuous interrogative sentence.",
+          "options": [
+            "Have I been working on the project all day?",
+            "Had I been working on the project all day?",
+            "Have I worked on the project all day?",
+            "Had I worked on the project all day?"
+          ],
+          "answer": 0,
+          "explanation": "In present perfect continuous, we use 'have been' + verb-ing. The phrase 'all day' remains, as it conveys the duration of the action. The correct structure is 'Have I been working on the project all day?'"
+        },
+        {
+          "questionNo": 2,
+          "question": "Convert the sentence 'We had been traveling for hours when we finally reached the destination.' into a present perfect continuous interrogative sentence.",
+          "options": [
+            "Have we been traveling for hours?",
+            "Had we been traveling for hours?",
+            "Have we traveled for hours?",
+            "Have we been traveling to the destination?"
+          ],
+          "answer": 0,
+          "explanation": "In present perfect continuous, the structure is 'have/has been' + verb-ing. The word 'to the destination' is not needed in this tense. We just need to focus on the continuous action. The correct sentence is 'Have we been traveling for hours?'"
+        },
+        {
+          "questionNo": 3,
+          "question": "Convert the sentence 'Did she finish the project?' into a past perfect interrogative sentence.",
+          "options": [
+            "Had she finished the project?",
+            "Was she finishing the project?",
+            "Has she finished the project?",
+            "Had she been finishing the project?"
+          ],
+          "answer": 0,
+          "explanation": "In the original sentence, 'Did she finish' is in the simple past interrogative form. For the past perfect interrogative, we use 'Had' + subject + past participle ('finished')."
+        },
+        {
+          "questionNo": 4,
+          "question": "Convert the sentence 'They had been discussing the issue all morning.' into a present perfect continuous interrogative sentence.",
+          "options": [
+            "Have they been discussing the issue all morning?",
+            "Had they been discussing the issue all morning?",
+            "Have they discussed the issue all morning?",
+            "Have they been discussing the issue?"
+          ],
+          "answer": 0,
+          "explanation": "The present perfect continuous tense is formed by using 'have/has been' + verb-ing. The duration 'all morning' is retained. The correct sentence is 'Have they been discussing the issue all morning?'"
+        },
+        {
+          "questionNo": 5,
+          "question": "Convert the sentence 'Has she completed the assignment?' into a past perfect interrogative sentence.",
+          "options": [
+            "Was she completing the assignment?",
+            "Did she complete the assignment?",
+            "Had she completed the assignment?",
+            "Has she been completing the assignment?"
+          ],
+          "answer": 2,
+          "explanation": "The original sentence is in the present perfect interrogative ('Has she completed'). In the past perfect interrogative form, use 'Had' + subject + past participle ('completed')."
+        },
+        {
+          "questionNo": 6,
+          "question": "Convert the sentence 'They completed the project before the deadline.' into a past perfect interrogative sentence.",
+          "options": [
+            "Had they completed the project before the deadline?",
+            "Did they complete the project before the deadline?",
+            "Have they completed the project before the deadline?",
+            "Had they completed the project?"
+          ],
+          "answer": 0,
+          "explanation": "The past perfect interrogative structure is formed with 'Had' + subject + past participle. The time phrase 'before the deadline' fits appropriately with the past perfect tense, making 'Had they completed the project before the deadline?' the correct form."
+        },
+        {
+          "questionNo": 7,
+          "question": "Convert the sentence 'We were not discussing the plan.' into a past continuous interrogative sentence.",
+          "options": [
+            "Were we discussing the plan?",
+            "Had we discussed the plan?",
+            "Did we discuss the plan?",
+            "Are we discussing the plan?"
+          ],
+          "answer": 0,
+          "explanation": "The original sentence is in the past continuous negative. For a past continuous interrogative, use 'Were' + subject + present participle ('discussing')."
+        },
+        {
+          "questionNo": 8,
+          "question": "Convert the sentence 'He ate lunch before going to the office.' into a past perfect interrogative sentence.",
+          "options": [
+            "Had he eaten lunch before going to the office?",
+            "Did he eat lunch before going to the office?",
+            "Has he eaten lunch before going to the office?",
+            "Had he eaten lunch?"
+          ],
+          "answer": 0,
+          "explanation": "The past perfect tense is used to indicate an action that was completed before another action in the past. To form the past perfect interrogative, we use 'Had' + subject + past participle. The correct sentence is 'Had he eaten lunch before going to the office?'"
+        },
+        {
+          "questionNo": 9,
+          "question": "Convert the sentence 'They were not watching TV.' into a past continuous interrogative sentence.",
+          "options": [
+            "Were they watching TV?",
+            "Did they watch TV?",
+            "Had they watched TV?",
+            "Are they watching TV?"
+          ],
+          "answer": 0,
+          "explanation": "The original sentence is in the past continuous negative. To make it interrogative, use 'Were' + subject + present participle ('watching')."
+        },
+        {
+          "questionNo": 10,
+          "question": "Convert the sentence 'We have not been discussing the plan.' into a past perfect continuous interrogative sentence.",
+          "options": [
+            "Were we discussing the plan?",
+            "Had we been discussing the plan?",
+            "Did we discuss the plan?",
+            "Have we been discussing the plan?"
+          ],
+          "answer": 1,
+          "explanation": "The original sentence is in the present perfect continuous negative. To make it a past perfect continuous interrogative, use 'Had' + subject + 'been' + present participle ('discussing')."
+        },
+        {
+          "questionNo": 11,
+          "question": "Convert the sentence 'She has not been cooking dinner.' into a past perfect continuous interrogative sentence.",
+          "options": [
+            "Did she cook dinner?",
+            "Had she been cooking dinner?",
+            "Was she cooking dinner?",
+            "Has she been cooking dinner?"
+          ],
+          "answer": 1,
+          "explanation": "The original sentence is in the present perfect continuous negative form ('has not been cooking'). For a past perfect continuous interrogative, use 'Had' + subject + 'been' + present participle ('cooking')."
+        },
+        {
+          "questionNo": 12,
+          "question": "Convert the sentence 'He has not been writing his novel.' into a past perfect continuous interrogative sentence.",
+          "options": [
+            "Was he writing his novel?",
+            "Did he write his novel?",
+            "Had he been writing his novel?",
+            "Has he been writing his novel?"
+          ],
+          "answer": 2,
+          "explanation": "The original sentence is in the present perfect continuous negative ('has not been writing'). To convert it, we use 'Had' + subject + 'been' + present participle ('writing')."
+        },
+        {
+          "questionNo": 13,
+          "question": "Convert the sentence 'She has not been practicing the piano.' into a past perfect continuous interrogative sentence.",
+          "options": [
+            "Was she practicing the piano?",
+            "Did she practice the piano?",
+            "Had she been practicing the piano?",
+            "Has she been practicing the piano?"
+          ],
+          "answer": 2,
+          "explanation": "The original sentence is in the present perfect continuous negative form ('has not been practicing'). To convert it, use 'Had' + subject + 'been' + present participle ('practicing')."
+        },
+        {
+          "questionNo": 14,
+          "question": "Convert the sentence 'They have not been cleaning the house.' into a past perfect continuous interrogative sentence.",
+          "options": [
+            "Were they cleaning the house?",
+            "Did they clean the house?",
+            "Had they been cleaning the house?",
+            "Have they been cleaning the house?"
+          ],
+          "answer": 2,
+          "explanation": "The original sentence is in the present perfect continuous negative form. To make it a past perfect continuous interrogative, use 'Had' + subject + 'been' + present participle ('cleaning')."
+        },
+        {
+          "questionNo": 15,
+          "question": "Convert the sentence 'She will have completed the project.' into a future perfect interrogative sentence.",
+          "options": [
+            "Will she have completed the project?",
+            "Has she completed the project?",
+            "Will she complete the project?",
+            "Had she completed the project?"
+          ],
+          "answer": 0,
+          "explanation": "To convert the future perfect affirmative sentence ('will have completed') into a future perfect interrogative, we place 'Will' at the beginning, followed by the subject ('she') and 'have completed.'"
+        },
+        {
+          "questionNo": 16,
+          "question": "Convert the sentence 'They will have finished their homework.' into a future perfect interrogative sentence.",
+          "options": [
+            "Will they finish their homework?",
+            "Will they have finished their homework?",
+            "Have they finished their homework?",
+            "Had they finished their homework?"
+          ],
+          "answer": 1,
+          "explanation": "In the future perfect interrogative form, 'Will' starts the question, followed by the subject ('they') and 'have finished.'"
+        },
+        {
+          "questionNo": 17,
+          "question": "Convert the sentence 'He will have written the report.' into a future perfect interrogative sentence.",
+          "options": [
+            "Has he written the report?",
+            "Will he write the report?",
+            "Will he have written the report?",
+            "Had he written the report?"
+          ],
+          "answer": 2,
+          "explanation": "The sentence is converted to a future perfect interrogative by placing 'Will' before the subject ('he'), followed by 'have written.'"
+        },
+        {
+          "questionNo": 18,
+          "question": "Convert the sentence 'We will have visited the museum.' into a future perfect interrogative sentence.",
+          "options": [
+            "Have we visited the museum?",
+            "Will we visit the museum?",
+            "Will we have visited the museum?",
+            "Had we visited the museum?"
+          ],
+          "answer": 2,
+          "explanation": "The structure for a future perfect interrogative sentence is 'Will' + subject ('we') + 'have visited.'"
+        },
+        {
+          "questionNo": 19,
+          "question": "Convert the sentence 'She will have cooked dinner.' into a future perfect interrogative sentence.",
+          "options": [
+            "Will she cook dinner?",
+            "Has she cooked dinner?",
+            "Will she have cooked dinner?",
+            "Had she cooked dinner?"
+          ],
+          "answer": 2,
+          "explanation": "To convert to a future perfect interrogative, 'Will' is placed at the beginning, followed by the subject ('she') and 'have cooked.'"
+        },
+        {
+          "questionNo": 20,
+          "question": "Convert the sentence 'We will have finished the project.' into a future perfect interrogative sentence.",
+          "options": [
+            "Will we have finished the project?",
+            "Have we finished the project?",
+            "Will we finish the project?",
+            "Had we finished the project?"
+          ],
+          "answer": 0,
+          "explanation": "The structure for a future perfect interrogative sentence is 'Will' + subject ('we') + 'have finished.'"
+        },
+        {
+          "questionNo": 21,
+          "question": "Convert the sentence 'She has crafted a sculpture.' into a present perfect interrogative sentence.",
+          "options": [
+            "Have she crafted a sculpture?",
+            "Does she crafted a sculpture?",
+            "Has she crafted a sculpture?",
+            "Has she craft a sculpture?"
+          ],
+          "answer": 2,
+          "explanation": "The correct form for the present perfect interrogative is 'Has,' followed by the subject ('she') and the past participle ('crafted')."
+        },
+        {
+          "questionNo": 22,
+          "question": "Convert the sentence 'They have deciphered the code.' into a present perfect interrogative sentence.",
+          "options": [
+            "Have they deciphered the code?",
+            "Does they decipher the code?",
+            "Has they deciphered the code?",
+            "Have they decipher the code?"
+          ],
+          "answer": 0,
+          "explanation": "In present perfect interrogative, 'Have' comes first, followed by the subject ('they') and the past participle ('deciphered')."
+        },
+        {
+          "questionNo": 23,
+          "question": "Convert the sentence 'He has assembled the furniture.' into a present perfect interrogative sentence.",
+          "options": [
+            "Have he assembled the furniture?",
+            "Has he assembled the furniture?",
+            "Does he assemble the furniture?",
+            "Has he assemble the furniture?"
+          ],
+          "answer": 1,
+          "explanation": "The correct interrogative form starts with 'Has,' followed by the subject ('he') and the past participle ('assembled')."
+        },
+        {
+          "questionNo": 24,
+          "question": "Convert the sentence 'We have navigated the river.' into a present perfect interrogative sentence.",
+          "options": [
+            "Do we navigate the river?",
+            "Have we navigated the river?",
+            "Has we navigated the river?",
+            "Have we navigate the river?"
+          ],
+          "answer": 1,
+          "explanation": "The correct structure for the present perfect interrogative is 'Have' + subject ('we') + past participle ('navigated')."
+        },
+        {
+          "questionNo": 25,
+          "question": "Convert the sentence 'She has sculpted a masterpiece.' into a present perfect continuous interrogative sentence.",
+          "options": [
+            "Has she been sculpting a masterpiece?",
+            "Has she been sculpted a masterpiece?",
+            "Is she sculpting a masterpiece?",
+            "Does she sculpt a masterpiece?"
+          ],
+          "answer": 0,
+          "explanation": "The present perfect continuous interrogative form requires 'Has,' followed by 'she,' then 'been' and the present participle ('sculpting')."
+        },
+        {
+          "questionNo": 26,
+          "question": "Convert the sentence 'He has decrypted the secret code.' into a present perfect continuous interrogative sentence.",
+          "options": [
+            "Is he decrypting the secret code?",
+            "Has he been decrypting the secret code?",
+            "Does he decrypt the secret code?",
+            "Has he been decrypted the secret code?"
+          ],
+          "answer": 1,
+          "explanation": "The present perfect continuous interrogative is formed by 'Has' + subject ('he') + 'been' + present participle ('decrypting')."
+        },
+        {
+          "questionNo": 27,
+          "question": "Convert the sentence 'They have synthesized a new compound.' into a present perfect continuous interrogative sentence.",
+          "options": [
+            "Has they been synthesizing a new compound?",
+            "Have they been synthesized a new compound?",
+            "Have they been synthesizing a new compound?",
+            "Do they synthesize a new compound?"
+          ],
+          "answer": 2,
+          "explanation": "The present perfect continuous interrogative structure is 'Have' + subject ('they') + 'been' + present participle ('synthesizing')."
+        },
+        {
+          "questionNo": 28,
+          "question": "Convert the sentence 'She was not deciphering the ancient script.' into a past perfect continuous interrogative negative sentence.",
+          "options": [
+            "Had she not been deciphering the ancient script?",
+            "Was she not deciphering the ancient script?",
+            "Had she not deciphered the ancient script?",
+            "Has she not been deciphering the ancient script?"
+          ],
+          "answer": 0,
+          "explanation": "To form a past perfect continuous interrogative negative, use 'Had' + subject ('she') + 'not been' + present participle ('deciphering')."
+        },
+        {
+          "questionNo": 29,
+          "question": "Convert the sentence 'He was not constructing the complex machinery.' into a past perfect continuous interrogative negative sentence.",
+          "options": [
+            "Had he not been constructing the complex machinery?",
+            "Was he not constructing the complex machinery?",
+            "Hadn't he been constructing the complex machinery?",
+            "Had he not constructed the complex machinery?"
+          ],
+          "answer": 0,
+          "explanation": "The past perfect continuous interrogative negative form is built with 'Had' + subject ('he') + 'not been' + present participle ('constructing')."
+        },
+        {
+          "questionNo": 30,
+          "question": "Convert the sentence 'They were not mapping the unknown terrain.' into a past perfect continuous interrogative negative sentence.",
+          "options": [
+            "Were they not mapping the unknown terrain?",
+            "Had they not mapped the unknown terrain?",
+            "Hadn't they been mapping the unknown terrain?",
+            "Had they not been mapping the unknown terrain?"
+          ],
+          "answer": 3,
+          "explanation": "The correct form for the past perfect continuous interrogative negative is 'Had' + subject ('they') + 'not been' + present participle ('mapping')."
+        }
+      ]
+    }
+  ]
+}
